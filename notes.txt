@@ -1,0 +1,5 @@
+On Azure you have to:
+- create B2C Tenant
+- Register the client application
+  - set the custom redirect url specific for msal sample apps (ie msal[id]://auth
+- Create a signip\signin policy (eg SISU_ ...)
